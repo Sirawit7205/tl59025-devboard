@@ -6,6 +6,10 @@
 
   (paper "A4")
   (title_block
+    (title "TL59025 Devboard")
+    (date "2022-09-18")
+    (rev "1")
+    (company "Sleepy Pony Labs")
     (comment 4 "AISLER Project ID: IMLSHTDQ")
   )
 
