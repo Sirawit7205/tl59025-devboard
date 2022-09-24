@@ -52,7 +52,7 @@ This project is licensed under the [Solderpad Hardware License v2.1](http://sold
 
 ## Third-Party 3D Models
 
-6x3.5mm Tactile Button by Gabriel Tóth: https://grabcad.com/library/6x3-5mm-smd-tactile-button-1
-Bourns 3362P Trimpot by Markus Walter: https://grabcad.com/library/bourns-3362p-1-102lf
-USB Type-C port by Hamza Huzair: https://grabcad.com/library/usb-type-c-port-smd-type-1
+- 6x3.5mm Tactile Button by Gabriel Tóth: https://grabcad.com/library/6x3-5mm-smd-tactile-button-1
+- Bourns 3362P Trimpot by Markus Walter: https://grabcad.com/library/bourns-3362p-1-102lf
+- USB Type-C port by Hamza Huzair: https://grabcad.com/library/usb-type-c-port-smd-type-1
  
