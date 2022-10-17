@@ -56,3 +56,7 @@ This project is licensed under the [Solderpad Hardware License v2.1](http://sold
 - Bourns 3362P Trimpot by Markus Walter: https://grabcad.com/library/bourns-3362p-1-102lf
 - USB Type-C port by Hamza Huzair: https://grabcad.com/library/usb-type-c-port-smd-type-1
  
+ ## Ordering
+ 
+ You can export gerbers from this project and order the board yourself. You can also use the link below to directly order from Aisler.
+ https://aisler.net/p/IMLSHTDQ
